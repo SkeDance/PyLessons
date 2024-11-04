@@ -1,4 +1,4 @@
-Порядок уроков
-Base_operations
-Variables
-if else operators
+# Порядок уроков:
+1. Base_operations
+2. Variables
+3. If else operators
