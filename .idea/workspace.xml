@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81817cdd-9827-4636-b160-fa9935b518bd" name="Changes" comment="#4 Variables">
-      <change afterPath="$PROJECT_DIR$/if_else_operators.py" afterDir="false" />
+    <list default="true" id="81817cdd-9827-4636-b160-fa9935b518bd" name="Changes" comment="Python Cycles">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -47,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Python Cycles.executor": "Run",
     "Python.Variables.executor": "Run",
     "Python.base_operations.executor": "Run",
     "Python.if_else_operators.executor": "Run",
@@ -58,6 +58,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.appearance",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -107,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729437573329</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Python Cycles">
+      <option name="closed" value="true" />
+      <created>1730739368318</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730739368318</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,9 +136,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First lessons about base operations &#10;#3 from YouTube channel itProger" />
     <MESSAGE value="#4 Variables" />
-    <option name="LAST_COMMIT_MESSAGE" value="#4 Variables" />
+    <MESSAGE value="Python Cycles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python Cycles" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/base_operations$Python_Cycles.coverage" NAME="Python Cycles Coverage Results" MODIFIED="1730739278210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/base_operations$if_else_operators.coverage" NAME="if_else_operators Coverage Results" MODIFIED="1730029704327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/base_operations$base_operations.coverage" NAME="base_operations Coverage Results" MODIFIED="1729434665127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/base_operations$Variables.coverage" NAME="Variables Coverage Results" MODIFIED="1729437363818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
