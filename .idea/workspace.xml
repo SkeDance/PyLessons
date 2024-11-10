@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81817cdd-9827-4636-b160-fa9935b518bd" name="Changes" comment="Python Cycles">
-      <change afterPath="$PROJECT_DIR$/List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="81817cdd-9827-4636-b160-fa9935b518bd" name="Changes" comment="Python List">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +83,7 @@
       <workItem from="1729443682376" duration="144000" />
       <workItem from="1729946050559" duration="2460000" />
       <workItem from="1730028047450" duration="2147000" />
-      <workItem from="1731266413887" duration="3035000" />
+      <workItem from="1731266413887" duration="3088000" />
     </task>
     <task id="LOCAL-00001" summary="First lessons about base operations &#10;#3 from YouTube channel itProger">
       <option name="closed" value="true" />
@@ -118,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730739368318</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Python List">
+      <option name="closed" value="true" />
+      <created>1731269509369</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731269509369</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +146,8 @@
     <MESSAGE value="First lessons about base operations &#10;#3 from YouTube channel itProger" />
     <MESSAGE value="#4 Variables" />
     <MESSAGE value="Python Cycles" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python Cycles" />
+    <MESSAGE value="Python List" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python List" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/base_operations$Python_Cycles.coverage" NAME="Python Cycles Coverage Results" MODIFIED="1730739278210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
