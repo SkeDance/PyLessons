@@ -4,3 +4,4 @@
 3. If else operators
 4. Python Cycles
 5. Python List
+6. String functions
