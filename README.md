@@ -5,3 +5,5 @@
 4. Python Cycles
 5. Python List
 6. String functions
+7. Tuple
+8. Dictionary

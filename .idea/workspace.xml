@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81817cdd-9827-4636-b160-fa9935b518bd" name="Changes" comment="Tuple">
-      <change afterPath="$PROJECT_DIR$/Dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="81817cdd-9827-4636-b160-fa9935b518bd" name="Changes" comment="Dictionary">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +90,7 @@
       <workItem from="1731956164134" duration="2368000" />
       <workItem from="1734032041818" duration="8000" />
       <workItem from="1734197594328" duration="1490000" />
-      <workItem from="1734275910084" duration="3546000" />
+      <workItem from="1734275910084" duration="3721000" />
     </task>
     <task id="LOCAL-00001" summary="First lessons about base operations &#10;#3 from YouTube channel itProger">
       <option name="closed" value="true" />
@@ -157,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734198490139</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Dictionary">
+      <option name="closed" value="true" />
+      <created>1734282665130</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1734282665130</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +189,8 @@
     <MESSAGE value="Fix README.md" />
     <MESSAGE value="String functions" />
     <MESSAGE value="Tuple" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tuple" />
+    <MESSAGE value="Dictionary" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dictionary" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/base_operations$String_functions.coverage" NAME="String functions Coverage Results" MODIFIED="1731958354704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
