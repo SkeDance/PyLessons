@@ -8,3 +8,4 @@
 7. Tuple
 8. Dictionary
 9. Set and frozenset
+10. Functions def and lambda
